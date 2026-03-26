@@ -1,3 +1,5 @@
+package de.darkatra
+
 @MustBeDocumented
 @Retention(AnnotationRetention.RUNTIME)
 @Target(AnnotationTarget.TYPE)
